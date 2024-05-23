@@ -1,5 +1,5 @@
 # Origami
-### UPDATE THIS SOFTWARE TO PYTON 3
+### UPDATE THIS SOFTWARE TO PYTHON 3
 The contents of this readme are:
 1. Introduction
 2. Program Walkthrough
